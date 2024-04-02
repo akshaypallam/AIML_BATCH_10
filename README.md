@@ -9,3 +9,12 @@
 [LAB-04](https://github.com/akshaypallam/AIML_BATCH_10/blob/main/LAB04_AIML.ipynb)
 
 [LAB-05](https://github.com/akshaypallam/AIML_BATCH_10/blob/main/LAB05_AIML.ipynb)
+
+[LAB-06](https://github.com/akshaypallam/AIML_BATCH_10/blob/main/LAB06_AIML.ipynba)
+
+[LAB-07](https://github.com/akshaypallam/AIML_BATCH_10/blob/main/LAB07_AIML.ipynb)
+
+[LAB-08](https://github.com/akshaypallam/AIML_BATCH_10/blob/main/LAB06_AIML.ipynba)
+
+
+
